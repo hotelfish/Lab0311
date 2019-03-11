@@ -24,7 +24,7 @@ namespace test0311
 
         private void button1_Click(object sender, EventArgs e)
         {
-            // master
+            // button2 branch
         }
     }
 }
